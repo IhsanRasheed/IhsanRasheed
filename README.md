@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ihsan Rasheed</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
+<img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -22,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsanrasheed&show_icons=true&locale=en" alt="ihsanrasheed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanrasheed&" alt="ihsanrasheed" /></p>
+
