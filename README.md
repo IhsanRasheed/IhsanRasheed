@@ -1,4 +1,4 @@
-Hiwave, I'm Ihsan Rasheed
+Hi , I'm Bibin A
 
 I am a MERN stack web developer. Completed my graduation in B-Tech Electrical Engineering in 2020.
 
@@ -6,7 +6,9 @@ seedling I’m currently learning React js
 
 speech_balloon Ask me about MERN
 
-mailbox How to reach me techinfobibin@gmail.com
+mailbox How to reach me ihsan.techinfo@gmail.com
+
+- 🔭 I’m currently working on ...
 
 
 <!--
@@ -14,7 +16,7 @@ mailbox How to reach me techinfobibin@gmail.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
