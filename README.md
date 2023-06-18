@@ -1,4 +1,13 @@
-### Hi there 👋
+Hiwave, I'm Ihsan Rasheed
+
+I am a MERN stack web developer. Completed my graduation in B-Tech Electrical Engineering in 2020.
+
+seedling I’m currently learning React js
+
+speech_balloon Ask me about MERN
+
+mailbox How to reach me techinfobibin@gmail.com
+
 
 <!--
 **IhsanRasheed/IhsanRasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
